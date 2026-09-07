@@ -1,0 +1,8 @@
+{
+  "base_url": "在这里填写你使用的模型的url",
+  "api_key": "在这里填写你使用的API_Key",
+  "model": "在这里填写你使用的模型",
+  "temperature": 0.3,
+  "max_tokens": 4096,
+  "timeout": 60
+}

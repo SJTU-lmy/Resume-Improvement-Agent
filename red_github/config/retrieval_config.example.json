@@ -1,0 +1,10 @@
+{
+  "_note": "复制为 retrieval_config.json 后填写 vector.api_key；job_family 填写 config/job_family.json 中的分组名，留空表示不限制岗位族。",
+  "job_family": "",
+  "vector": {
+    "provider": "在这里填写你使用的embedding模型的提供商",
+    "api_key": "在这里填写你使用的embedding模型的API_Key",
+    "model": "在这里填写你使用的embedding模型",
+    "dimensions": 1024
+  }
+}

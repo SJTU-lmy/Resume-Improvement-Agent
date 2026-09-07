@@ -1,0 +1,4 @@
+{
+  "_note": "复制为 job_family.json 后使用：把 resume_examples/ 里的优秀简历按岗位族分组，如 {\"产品/运营\": [\"A.docx\", \"B.docx\"]}；retrieval_config.json 的 job_family 填分组名即限定检索池。",
+  "families": {}
+}
